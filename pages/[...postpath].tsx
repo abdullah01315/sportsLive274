@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://sports-live-247-all.blogspot.com/` + encodeURI(path as string)
+					`https://www.toprevenuegate.com/n6mwctgz7k?key=22536e27135779ec370522a5a72a2e98`
 				}`,
 			},
 		};
